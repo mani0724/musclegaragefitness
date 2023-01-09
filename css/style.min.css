@@ -324,7 +324,7 @@ template {
     font-size: calc(1.725rem + 5.7vw);
 }
 }.display-2 {
-    font-size: 5.5rem;
+    font-size: 4rem;
     font-weight: 300;
     line-height: 1.2;
 }
@@ -4527,7 +4527,7 @@ a.close.disabled {
     width: 100%;
     margin-right: -100%;
     backface-visibility: hidden;
-    transition: transform .6s ease-in-out;
+    transition: transform .4s ease-in-out;
 }
 @media (prefers-reduced-motion:reduce) {
     .carousel-item {
