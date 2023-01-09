@@ -295,7 +295,7 @@ template {
 }
 @media (max-width:1200px) {
     .h3, h3 {
-    font-size: calc(1.3rem + .6vw);
+    font-size: calc(0.9rem + .6vw);
 }
 }.h4, h4 {
     font-size: 1.5rem;
@@ -330,7 +330,7 @@ template {
 }
 @media (max-width:1200px) {
     .display-2 {
-    font-size: calc(1.675rem + 5.1vw);
+    font-size: calc(0.3rem + 5.1vw);
 }
 }.display-3 {
     font-size: 4.5rem;
